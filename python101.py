@@ -2,7 +2,7 @@ print ("Hello, New World")
 
 print ("""
 It was a bright and sunny day,
-And a bird shit in me eye.
+And a bird pooped in me eye.
 Yarrrgh.
 """)
 
@@ -27,3 +27,15 @@ Yarrrgh.
 # - Object: Super dictionaries
 
 # - Primitive Data Types: String, Number, Boolean
+month = "November";
+print (type(month))
+date = 13
+print (type(date))
+dateAsFloat = 13.0
+print (type(dateAsFloat))
+aBool = True #True and False need to be uppercase!!!
+print (type(aBool))
+aList = []
+print (type(aList))
+aDict = {}
+print (type(aDict))
