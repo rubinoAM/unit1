@@ -39,3 +39,27 @@ aList = []
 print (type(aList))
 aDict = {}
 print (type(aDict))
+
+first = "Michael"
+last = "Rubino"
+fullName = first + "" + last
+print (fullName)
+
+fourteen = 10 + 4
+print (fourteen)
+fourteen = "10" + "4"
+print (fourteen)
+# #fourteen = 10 + "4"
+# #print (fourteen)
+
+# cast = change a variable to a new data type
+fourteen = int("10") + 4
+print (fourteen)
+
+# Math = +, -, /, *, %
+print (2+2)
+print (2-2)
+print (2/2)
+print (2*2)
+# % = Modulus, which divides the number and gives you the remainder
+print (2%2)
